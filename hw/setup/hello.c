@@ -1,6 +1,6 @@
-#include ‹stdio.h›
+#include <stdio.h>
 
-int main(void){
+int main(void) {
     printf("hello, OSTEP\n");
     return 0;
-} 
+}
